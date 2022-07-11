@@ -1,0 +1,11 @@
+{
+	"venvPath": "/Users/jeamee/.pyenv",
+	"stubPath": "",
+	"pythonVersion": "3.10",
+	"executionEnvironments": [
+    {
+      "root": "src",
+      "pythonVersion": "3.10",
+      "venv": "a4c"
+    }
+}

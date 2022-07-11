@@ -1,0 +1,18 @@
+{
+    "configurations": {
+      "pydebug: Launch": {
+        "adapter": "debugpy",
+        "configuration": {
+          "name": "pydebug: Launch",
+          "type": "python",
+          "request": "launch",
+          "python": "/usr/local/Caskroom/miniconda/base/envs/py10/bin/python",
+          "stopOnEntry": true,
+          "console": "externalTerminal",
+          "debugOptions": [],
+          "args": ["../data/debug", "../data/debug1", "CHN"],
+          "program": "./src/train.py"
+        }
+      }
+    }
+  }
